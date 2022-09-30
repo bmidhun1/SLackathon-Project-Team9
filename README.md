@@ -2,9 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/solutions/projects/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
 
-A basic GitHub repository example for hackathon. Not all sections or files are required. You can make this as simple or as in-depth as you need.
-
-_Read this in other languages: [English](README.md), [한국어](./docs/README.ko.md), [português](./docs/README.pt_br.md), [中文](./docs/README.zh.md)._ 
+A basic GitHub repository example for hackathon. You can make this as simple or as in-depth as you need.
 
 ## Contents
 
