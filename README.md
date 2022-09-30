@@ -55,8 +55,6 @@ The project currently does the following things.
 - Feature 2
 - Feature 3
 
-![Roadmap](./images/roadmap.jpg)
-
 ## Live demo
 
 You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
