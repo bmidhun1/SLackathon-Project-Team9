@@ -21,7 +21,7 @@ A basic GitHub repository example for hackathon. You can make this as simple or 
 ### What's the problem?
 
 Optimize Supply Chain Inventory
-Effectively manage and optimize inventory by capturing variables such as lead times, manufac- turing frequency, batch size, and ordering policies from across the supply chain. Using algo- rithms, exception-based forecasts, and real-time downstream demand signals, suggest and adjust inventories to optimal levels. Maintain the right amount of inventory required to meet demand, keep logistics costs low, and avoid common inventory issues such as stockouts, over- stocking, and backorders.
+Super Effectively manage and optimize inventory by capturing variables such as lead times, manufac- turing frequency, batch size, and ordering policies from across the supply chain. Using algo- rithms, exception-based forecasts, and real-time downstream demand signals, suggest and adjust inventories to optimal levels. Maintain the right amount of inventory required to meet demand, keep logistics costs low, and avoid common inventory issues such as stockouts, over- stocking, and backorders.
 
 ### How can technology help?
 Optimize supply chain inventory - Technology to optimize supply chain inventory and to help quickly choose the best manufacturing plants to optimize inventory and minimize cost.
